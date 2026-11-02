@@ -1,0 +1,11 @@
+Gestore - Copyright (C) 2026 Oliver. Tutti i diritti riservati.
+
+Questo software è fornito gratuitamente per uso personale.
+Senza il consenso scritto dell'autore è vietato copiare,
+modificare, decompilare, ridistribuire o rivendere l'app,
+in tutto o in parte.
+
+IL SOFTWARE È FORNITO "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO.
+L'AUTORE NON È RESPONSABILE DI EVENTUALI PERDITE DI DATI.
+Se dimentichi la password e la risposta segreta, i file nell'archivio
+non possono essere recuperati. Fai sempre un backup.
